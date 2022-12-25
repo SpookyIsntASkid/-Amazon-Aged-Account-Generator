@@ -19,7 +19,7 @@ input = new_input
 os.system("cls")
 os.system("title "+ f"Capybara's Plug * Aged Amazon Account Generator")
 
-print("Credits", "Capybara's Plug On Top")
+print("Credits", "Capybara's Plug On Top Leaked By Spooky")
 print("Discord Server", "https://discord.gg/PXnm6UAK4x")
 print("Mode (v.1)", "Aged Amazon Account Generator")
 
