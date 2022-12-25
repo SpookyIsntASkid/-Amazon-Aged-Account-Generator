@@ -1,0 +1,25 @@
+1. Head to https://www.fakenamegenerator.com/order.php and make an order with these settings:
+
+-Tab Delimited
+-American
+-United States
+-75% Female
+-Include Email address
+
+2. Place an order for the emails and wait for them to arrive
+
+3. Once arrived go to files/emails and input the emails
+
+4. Start the program with threads and look for hits
+
+5. Grab a hit and go to https://www.fakemailgenerator.com/ and enter the email
+
+6. Head to amz and enter the email and click on forgot password
+
+7. Enter the OTP and reset the password
+
+8. If it asks a security question like "what is the full name of your acc" then enter the name before the @ symbol
+- Phone number and 2fa bypasses will not be provided
+
+9. Once youve changed the password, transfer the acc to your personal email and enjoy!
+-you can also enable 2fa if youd rather not transfer it to your email, no one will be able to access without 2fa.
